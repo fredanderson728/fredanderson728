@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Fred
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning how to code.
-- 📫 I have not started letting pepole send messages to me. Sorry.
+-  Hi, I’m Fred
+-  I’m interested in coding.
+-  I’m currently learning how to code.
+
 
 
 
